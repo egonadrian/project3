@@ -1,0 +1,19 @@
+{
+  "name": "project3",
+  "version": "0.1.0",
+  "description": "A webapp that shows the location of tren urbano",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Egon Gonzalez",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egonadrian/project3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/egonadrian/project3/issues"
+  },
+  "homepage": "https://github.com/egonadrian/project3#readme"
+}
